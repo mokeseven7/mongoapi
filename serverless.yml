@@ -1,6 +1,6 @@
 service: serviceName
-# app: app
-# org: org
+app: mongoapi
+org: dopefruit
 
 custom:
   aws_profile: "awsprofile"
